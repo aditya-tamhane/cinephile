@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cinephile/static/css/main.0027a562.css",
+    "main.js": "/cinephile/static/js/main.36609ff8.js",
+    "static/js/787.a72d39bb.chunk.js": "/cinephile/static/js/787.a72d39bb.chunk.js",
+    "static/media/logo.png": "/cinephile/static/media/logo.4dc7823d6d38fe1fd796.png",
+    "index.html": "/cinephile/index.html",
+    "main.0027a562.css.map": "/cinephile/static/css/main.0027a562.css.map",
+    "main.36609ff8.js.map": "/cinephile/static/js/main.36609ff8.js.map",
+    "787.a72d39bb.chunk.js.map": "/cinephile/static/js/787.a72d39bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0027a562.css",
+    "static/js/main.36609ff8.js"
+  ]
+}
